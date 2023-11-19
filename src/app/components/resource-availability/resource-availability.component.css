@@ -1,0 +1,4 @@
+.disabled-div {
+    opacity: 0.5; /* You can adjust the opacity or apply other styles for a disabled appearance */
+    pointer-events: none; /* This prevents interaction with the elements inside the div */
+  }

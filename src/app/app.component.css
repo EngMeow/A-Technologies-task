@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('../assets/fonts/Century Gothic/CenturyGothic.ttf') format('truetype');
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: 'Century Gothic';
+    src: url('../assets/fonts/Century Gothic/GOTHICB.TTF') format('truetype');
+    font-weight: bold;
+  }
+  
+  
+  *{
+    font-family: 'Century Gothic', sans-serif;
+    font-weight: 400; /* Specify the desired font weight (e.g., 400 for normal, 700 for bold) */
+    font-size: 12px; /* Specify the desired font size */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+

@@ -1,0 +1,13 @@
+.custom-btn {
+    background-color: transparent; /* Transparent background */
+    transition: background-color 0.3s ease; /* Smooth transition for background-color */
+    border-radius: 25px;
+    font-size: 17px;
+  }
+  
+  .custom-btn.active {
+    background-color: #007bff; /* Primary color when active */
+    color: #fff; /* White text when active */
+    border-color: #007bff; /* Primary border color when active */
+  }
+  

@@ -1,0 +1,57 @@
+{
+    "dir":"ltr",
+
+    "Add New Resources": "Add New Resources",
+    "Save Changes": "Save Changes",
+    "Delete Resource": "Delete Resource",
+    "active": "Active",
+  
+    "Choose resource type": "Choose resource type",
+    "Book through day":"Book through day",
+    "Book duration ( more than day )":"Book duration ( more than day )",
+
+    "Resource name": "Resource name",
+  
+    "Resource available to": "Resource available to",
+    "select duration": "Select duration",
+    "day": "Day",
+    "month": "Month",
+    "year": "Year",
+  
+    "Resource time": "Resource time",
+    "Service time": "Service time",
+    "Fixed time": "Fixed time",
+  
+    "Multi-booking": "Multi-booking",
+    "Book for one person": "Book for one person",
+    "Book for multi-persons": "Book for multi-persons",
+  
+    "Choose working time for resources": "Choose working time for resources",
+    "Your weekly picks are here. You just have to do the strips and there is no time required to set up the work.": "Your weekly picks are here. You just have to do the strips and there is no time required to set up the work.",
+  
+    "Advanced Settings": "Advanced Settings",
+    "Normal Settings": "Normal Settings",
+  
+    "Saturday": "Saturday",
+    "Sunday": "Sunday",
+    "Monday": "Monday",
+    "Tuesday": "Tuesday",
+    "Wednesday": "Wednesday",
+    "Thursday": "Thursday",
+    "Friday": "Friday",
+  
+    "Start Date": "Start Date",
+    "End Date": "End Date",
+  
+    "choose time": "Choose time",
+  
+    "Add Action": "Add Action",
+    "Remove Action": "Remove Action",
+    "Files": "Files",
+
+    "minute":"minute",
+    "minutes":"minutes",
+    "appointments":"appointments"
+
+  }
+  

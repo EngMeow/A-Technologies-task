@@ -1,0 +1,58 @@
+{
+    "dir":"rtl",
+
+    "Add New Resources": "أضف موارد جديدة",
+    "Save Changes": "حفظ التغييرات",
+    "Delete Resource": "حذف المورد",
+    "active": "نشط",
+  
+    "Choose resource type": "اختر نوع الموارد",
+    "Book through day":"حجز خلال اليوم",
+    "Book duration ( more than day )":"حجز مدة ( أكثر من يوم )",
+
+    "Resource name": "اسم المورد",
+  
+    "Resource available to": "المورد متاح لـ",
+    "select duration": "اختر المدة",
+    "day": "يوم",
+    "month": "شهر",
+    "year": "سنة",
+  
+    "Resource time": "وقت المورد",
+    "Service time": "وقت الخدمة",
+    "Fixed time": "وقت ثابت",
+  
+    "Multi-booking": "الحجز المتعدد",
+    "Book for one person": "احجز لشخص واحد",
+    "Book for multi-persons": "احجز لعدة أشخاص",
+  
+    "Choose working time for resources": "اختر وقت العمل للموارد",
+    "Your weekly picks are here. You just have to do the strips and there is no time required to set up the work.": "اختياراتك الأسبوعية هنا. عليك فقط إجراء التعديلات ولا يلزم وقت لإعداد العمل.",
+  
+    "Advanced Settings": "إعدادات متقدمة",
+    "Normal Settings": "إعدادات عادية",
+  
+    "Saturday": "السبت",
+    "Sunday": "الأحد",
+    "Monday": "الاثنين",
+    "Tuesday": "الثلاثاء",
+    "Wednesday": "الأربعاء",
+    "Thursday": "الخميس",
+    "Friday": "الجمعة",
+  
+    "Start Date": "تاريخ البداية",
+    "End Date": "تاريخ الانتهاء",
+  
+    "choose time": "اختر الوقت",
+  
+    "Add Action": "إضافة إجراء",
+    "Remove Action": "إزالة الإجراء",
+    "Files": "ملفات",
+
+    "minute":"دقيقة",
+    "minutes":"دقيقة",
+    "appointments":"موعد"
+
+
+  }
+  
