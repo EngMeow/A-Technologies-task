@@ -21,7 +21,7 @@
             </label>
           </div>
           <div class="order-2 d-flex flex-wrap">
-      <div *ngFor="let value of radioValues" class="d-flex justify-content-between align-items-center my-1">
+      <div *ngFor="let value of radioValues" class="d-flex justify-content-between align-items-center my-1 mx-2">
         <input type="radio" name="ResourceOptions" [(ngModel)]="selectedResourceOptions" class="mx-1" [value]="value">
         {{ value | translate }}
       </div>
